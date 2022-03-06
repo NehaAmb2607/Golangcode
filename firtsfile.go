@@ -1,1 +1,7 @@
-package Golangcode
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello work")
+}
